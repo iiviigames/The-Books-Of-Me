@@ -1,3 +1,4 @@
+<div align="right"><sup><sub>i dont care for <a name="shithead">intros</a></span>, take me to the good stuff</sub></sup></div>
 
 <div align="center">
   <h1>🔼The Books Of Me🔽</h1>
@@ -10,7 +11,24 @@
   <code>▪️ Writings</code><br><br>
   <h1>I HOPE YOU ENJOY</h1>
   <hr>
-  <div align="left"><pre>
+
+<h1>The Table of Context <i><sub><sup>(sp?)</sup></sub></i></h1>
+</div>
+
+## What Are the Books of Me
+
+A blog given form in Github Issues.
+
+
+
+
+
+
+
+
+
+
+<div align="left"><pre>
  ____  _                         _         
 / ___|(_)_ __   ___ ___ _ __ ___| |_   _   
 \___ \| | '_ \ / __/ _ \ '__/ _ \ | | | |  
@@ -47,7 +65,6 @@ graph TD;
   <summary></summary>
 </details>
 
+---
 
-## What Are the Books of Me
 
-A blog given form in Github Issues.
