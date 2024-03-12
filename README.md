@@ -1,5 +1,7 @@
 <div align="right"><sup><sub>i dont care for <a name="shithead">intros</a></span>, take me to the good stuff</sub></sup></div>
 
+$$\prod\bigvee\prod$$
+
 <div align="center">
   <h1>🔼The Books Of Me🔽</h1>
   <p>$$\prod\bigvee\prod$$</p>
