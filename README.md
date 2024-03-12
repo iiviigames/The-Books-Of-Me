@@ -29,14 +29,28 @@
 > [!WARNING]
 > this is warning
 
----
+
+## FAQ
+
+Alright fucker, listen
+
+- Life is so short, so short it's not insane to wish you were never born.
+- If you feel that way ever,I'm here to tell you **you'd be an asshole not to feel that way**.
+- Like my retarded BB neighbor used to say as kids
+   > *"I JUDS PISS'D IN YOOR POOL, BEE!"*/
 
 
-## What Are the Books of Me
+#### What Are the Books of Me
 
 A blog given form in Github Issues.
 
+#### What Are They About?
 
+Anything I need to write about. 
+
+#### Why on GitHub Issues?
+
+Listen , I'm almost 40. My whole life ,
 
 
 
